@@ -17,3 +17,16 @@
 .onnx
 .apk
 local.properties
+
+# Java heap dumps
+*.hprof
+
+# Android / JVM dumps
+java_pid*
+
+# Android build
+/build/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
