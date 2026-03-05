@@ -30,3 +30,6 @@ java_pid*
 # IntelliJ / Android Studio
 .idea/
 *.iml
+
+# Heap dumps
+*.hprof
