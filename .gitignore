@@ -1,0 +1,28 @@
+# === Datos pesados ===
+data/raw/
+data/processed/
+output_videos/
+
+# === Modelos entrenados ===
+models/*.pt
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# === Entornos virtuales ===
+venv/
+.venv/
+env/
+
+# === Jupyter Notebooks checkpoints ===
+.ipynb_checkpoints/
+
+# === IDE ===
+.vscode/
+
